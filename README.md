@@ -1,3 +1,7 @@
+<div align="center">
+  <h1>Hi, I am Sophie 👋🏻</h1>
+</div>
+
 ### 🚀 ABOUT ME
 
 Computer science student at University of West of England, Bristol, United Kingdom.
