@@ -20,7 +20,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
 
 
-  <img src="https://readme-jokes.vercel.app/api?theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
   
 </div>
 
