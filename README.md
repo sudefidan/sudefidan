@@ -19,9 +19,10 @@
 ### 🤓 Streak
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
 
-
+  <!-- (https://github.com/ABSphreak/readme-jokes) -->
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=pinkish" alt="Jokes Card" />
   
 </div>
+
 
 
