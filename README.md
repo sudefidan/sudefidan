@@ -21,5 +21,5 @@ Computer science student at University of West of England, Bristol, United Kingd
 
 
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
