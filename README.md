@@ -4,7 +4,7 @@
   
   ### 🚀 ABOUT ME
 
-  Computer science student at University of West of England, Bristol, United Kingdom.
+  #### Computer science student at University of West of England, Bristol, United Kingdom.
 
   ### 📞 REACH OUT
 
