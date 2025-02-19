@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hi, I am Sophie 👋🏻</h1>
+  
   ### 🚀 ABOUT ME
 
   Computer science student at University of West of England, Bristol, United Kingdom.
@@ -15,16 +16,12 @@
 
 
 ### 🤓 Streak
-<div align="center">
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
-</div>
 
 
 
 
-<div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
   
 </div>
 
