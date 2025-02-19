@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-
-### 🤓 Streak
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
 
   <!-- (https://github.com/ABSphreak/readme-jokes) -->
