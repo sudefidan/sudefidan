@@ -14,4 +14,6 @@ Computer science student at University of West of England, Bristol, United Kingd
 <a href="https://sudefidan.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
   
