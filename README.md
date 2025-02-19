@@ -17,6 +17,9 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudefidan)](https://github.com/anuraghazra/github-readme-stats)
 
+
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?sudefidan=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
   <!-- (https://github.com/ABSphreak/readme-jokes) -->
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=pinkish" alt="Jokes Card" />
   
