@@ -21,5 +21,5 @@ Computer science student at University of West of England, Bristol, United Kingd
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudefidan)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   
