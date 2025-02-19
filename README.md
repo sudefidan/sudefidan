@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi, I am Sophie 👋🏻</h1>
+  
+  ## Hi, I am Sophie 👋🏻
   
   ### 🚀 ABOUT ME
 
@@ -17,8 +18,6 @@
 
 ### 🤓 Streak
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
-
-
 
 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
