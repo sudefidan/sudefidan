@@ -18,4 +18,8 @@ Computer science student at University of West of England, Bristol, United Kingd
 
 ### 🤓 Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudefidan)](https://github.com/ryo-ma/github-profile-trophy)
   
