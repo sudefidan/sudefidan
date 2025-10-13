@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%2C%20I'm%20Sophie%20👋🏻&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff)
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=pinkish" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=daySky" alt="Jokes Card" />
 
 <br></br>
 
