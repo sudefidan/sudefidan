@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi%2C%20I'm%20Sophie%20👋🏻&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Hi%2C%20I'm%20Sophie%20👋🏻&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff)
 
 <img src="https://readme-jokes.vercel.app/api?theme=buefy" alt="Jokes Card" />
 
