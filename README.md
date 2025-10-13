@@ -10,6 +10,10 @@
 </a>
 <br><br>
 
+
+[![GitHub Trends SVG](https://api.githubtrends.io/sudefidan/svg/avgupta456/langs)](https://githubtrends.io)
+
+
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
   
 
