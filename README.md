@@ -11,7 +11,7 @@
 <br><br>
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/sudefidan/svg/avgupta456/langs)](https://githubtrends.io)
+[[![GitHub Trends SVG](https://api.githubtrends.io/sudefidan/svg/avgupta456/langs)](https://githubtrends.io)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={sudefidan}&theme={default})
 
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
