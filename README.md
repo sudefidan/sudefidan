@@ -10,8 +10,6 @@
 </a>
 <br><br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudefidan)](https://git.io/streak-stats)
-
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
   
 
