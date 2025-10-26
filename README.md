@@ -3,6 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Hi%2C%20I'm%20Sophie%20👋🏻&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff)
 <img src="https://readme-jokes.vercel.app/api?theme=buefy" alt="Jokes Card" style="margin-top:-10px;"/>
 
+<br/>
+
 [![](https://raw.githubusercontent.com/sudefidan/sudefidan/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![](https://raw.githubusercontent.com/sudefidan/sudefidan/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/sudefidan/sudefidan/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
